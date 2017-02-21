@@ -1,1 +1,0 @@
-# yog2-app-template
