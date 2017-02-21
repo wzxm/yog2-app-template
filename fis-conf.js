@@ -3,7 +3,7 @@
  * @author
  */
 
-fis.config.set('namespace', 'homt');
+fis.config.set('namespace', 'wzapp');
 
 // chrome下可以安装插件实现livereload功能
 // https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei
