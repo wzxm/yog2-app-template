@@ -1,0 +1,10 @@
+@import "../../../../common/client/static/scss/lib/base";
+$color-1:#322a37;
+.container-1{
+    height: 20.3rem;
+    background: $color-1 url("img/panel-bg-2.jpg") no-repeat left top;
+    background-size: 100% auto;
+    overflow-x: hidden;
+    position: relative;
+    z-index: 1;
+}
